@@ -13,7 +13,7 @@ HASH=$(sudo grep 'osboxes' /etc/shadow | awk -F: '{print $2}')
 USER=$(whoami)
 
 # Cambiar al directorio del repositorio
-cd /home/osboxes/repogit/UTNFRA_SO_1P2C_2024_Valverde
+cd /home/osboxes/repogit/UTNFRA_SO_1P2C_2024_Alan_Calveyra
 
 # Obtener la URL del repositorio remoto
 REPO_URL=$(git remote get-url origin)
