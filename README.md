@@ -1,5 +1,5 @@
 # UTNFRA_SO_1P2C_2024_Alan_Calveyra
 Nombre: Alan
-APellido: Tu Apellido
+Apellido: Calveyra
 Legajo: 115480
 Divisi√: 311
