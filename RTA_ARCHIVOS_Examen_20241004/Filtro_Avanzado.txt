@@ -1,0 +1,4 @@
+Mi IP Publica es: 179.37.178.1
+Mi usuario es: osboxes
+El Hash de mi Usuario es: $y$j9T$qhEBRUgELZ6aUXPI0/aEx/$hxyNAbxfwvhkceqg/IHmYlGcZk9dItipuurCa2pA0l9
+La URL de mi repositorio es: https://github.com/AlanCalveyra/UTNFRA_SO_1P2C_2024_Alan_Calveyra.git
